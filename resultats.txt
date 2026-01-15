@@ -1,0 +1,251 @@
+[2026-01-14 23:59:18] Andorra | Capitale: Andorra la Vella
+[2026-01-15 00:00:16] AndorraCapital:Andorra la VellaPopulation:84000Area (km2):468.0 | Capitale: Andorra la Vella
+[2026-01-15 00:00:16] United Arab EmiratesCapital:Abu DhabiPopulation:4975593Area (km2):82880.0 | Capitale: Abu Dhabi
+[2026-01-15 00:00:16] AfghanistanCapital:KabulPopulation:29121286Area (km2):647500.0 | Capitale: Kabul
+[2026-01-15 00:00:16] Antigua and BarbudaCapital:St. John'sPopulation:86754Area (km2):443.0 | Capitale: St. John's
+[2026-01-15 00:00:16] AnguillaCapital:The ValleyPopulation:13254Area (km2):102.0 | Capitale: The Valley
+[2026-01-15 00:00:16] AlbaniaCapital:TiranaPopulation:2986952Area (km2):28748.0 | Capitale: Tirana
+[2026-01-15 00:00:16] ArmeniaCapital:YerevanPopulation:2968000Area (km2):29800.0 | Capitale: Yerevan
+[2026-01-15 00:00:16] AngolaCapital:LuandaPopulation:13068161Area (km2):1246700.0 | Capitale: Luanda
+[2026-01-15 00:00:16] AntarcticaCapital:NonePopulation:0Area (km2):1.4E7 | Capitale: None
+[2026-01-15 00:00:16] ArgentinaCapital:Buenos AiresPopulation:41343201Area (km2):2766890.0 | Capitale: Buenos Aires
+[2026-01-15 00:00:16] American SamoaCapital:Pago PagoPopulation:57881Area (km2):199.0 | Capitale: Pago Pago
+[2026-01-15 00:00:16] AustriaCapital:ViennaPopulation:8205000Area (km2):83858.0 | Capitale: Vienna
+[2026-01-15 00:00:16] AustraliaCapital:CanberraPopulation:21515754Area (km2):7686850.0 | Capitale: Canberra
+[2026-01-15 00:00:16] ArubaCapital:OranjestadPopulation:71566Area (km2):193.0 | Capitale: Oranjestad
+[2026-01-15 00:00:16] ÅlandCapital:MariehamnPopulation:26711Area (km2):1580.0 | Capitale: Mariehamn
+[2026-01-15 00:00:16] AzerbaijanCapital:BakuPopulation:8303512Area (km2):86600.0 | Capitale: Baku
+[2026-01-15 00:00:16] Bosnia and HerzegovinaCapital:SarajevoPopulation:4590000Area (km2):51129.0 | Capitale: Sarajevo
+[2026-01-15 00:00:16] BarbadosCapital:BridgetownPopulation:285653Area (km2):431.0 | Capitale: Bridgetown
+[2026-01-15 00:00:16] BangladeshCapital:DhakaPopulation:156118464Area (km2):144000.0 | Capitale: Dhaka
+[2026-01-15 00:00:16] BelgiumCapital:BrusselsPopulation:10403000Area (km2):30510.0 | Capitale: Brussels
+[2026-01-15 00:00:16] Burkina FasoCapital:OuagadougouPopulation:16241811Area (km2):274200.0 | Capitale: Ouagadougou
+[2026-01-15 00:00:16] BulgariaCapital:SofiaPopulation:7148785Area (km2):110910.0 | Capitale: Sofia
+[2026-01-15 00:00:16] BahrainCapital:ManamaPopulation:738004Area (km2):665.0 | Capitale: Manama
+[2026-01-15 00:00:16] BurundiCapital:BujumburaPopulation:9863117Area (km2):27830.0 | Capitale: Bujumbura
+[2026-01-15 00:00:16] BeninCapital:Porto-NovoPopulation:9056010Area (km2):112620.0 | Capitale: Porto-Novo
+[2026-01-15 00:00:16] Saint BarthélemyCapital:GustaviaPopulation:8450Area (km2):21.0 | Capitale: Gustavia
+[2026-01-15 00:00:16] BermudaCapital:HamiltonPopulation:65365Area (km2):53.0 | Capitale: Hamilton
+[2026-01-15 00:00:16] BruneiCapital:Bandar Seri BegawanPopulation:395027Area (km2):5770.0 | Capitale: Bandar Seri Begawan
+[2026-01-15 00:00:16] BoliviaCapital:SucrePopulation:9947418Area (km2):1098580.0 | Capitale: Sucre
+[2026-01-15 00:00:16] BonaireCapital:KralendijkPopulation:18012Area (km2):328.0 | Capitale: Kralendijk
+[2026-01-15 00:00:16] BrazilCapital:BrasíliaPopulation:201103330Area (km2):8511965.0 | Capitale: Brasília
+[2026-01-15 00:00:16] BahamasCapital:NassauPopulation:301790Area (km2):13940.0 | Capitale: Nassau
+[2026-01-15 00:00:16] BhutanCapital:ThimphuPopulation:699847Area (km2):47000.0 | Capitale: Thimphu
+[2026-01-15 00:00:16] Bouvet IslandCapital:NonePopulation:0Area (km2):49.0 | Capitale: None
+[2026-01-15 00:00:16] BotswanaCapital:GaboronePopulation:2029307Area (km2):600370.0 | Capitale: Gaborone
+[2026-01-15 00:00:16] BelarusCapital:MinskPopulation:9685000Area (km2):207600.0 | Capitale: Minsk
+[2026-01-15 00:00:16] BelizeCapital:BelmopanPopulation:314522Area (km2):22966.0 | Capitale: Belmopan
+[2026-01-15 00:00:16] CanadaCapital:OttawaPopulation:33679000Area (km2):9984670.0 | Capitale: Ottawa
+[2026-01-15 00:00:16] Cocos [Keeling] IslandsCapital:West IslandPopulation:628Area (km2):14.0 | Capitale: West Island
+[2026-01-15 00:00:16] Democratic Republic of the CongoCapital:KinshasaPopulation:70916439Area (km2):2345410.0 | Capitale: Kinshasa
+[2026-01-15 00:00:16] Central African RepublicCapital:BanguiPopulation:4844927Area (km2):622984.0 | Capitale: Bangui
+[2026-01-15 00:00:16] Republic of the CongoCapital:BrazzavillePopulation:3039126Area (km2):342000.0 | Capitale: Brazzaville
+[2026-01-15 00:00:16] SwitzerlandCapital:BernPopulation:7581000Area (km2):41290.0 | Capitale: Bern
+[2026-01-15 00:00:16] Ivory CoastCapital:YamoussoukroPopulation:21058798Area (km2):322460.0 | Capitale: Yamoussoukro
+[2026-01-15 00:00:16] Cook IslandsCapital:AvaruaPopulation:21388Area (km2):240.0 | Capitale: Avarua
+[2026-01-15 00:00:16] ChileCapital:SantiagoPopulation:16746491Area (km2):756950.0 | Capitale: Santiago
+[2026-01-15 00:00:16] CameroonCapital:YaoundéPopulation:19294149Area (km2):475440.0 | Capitale: Yaoundé
+[2026-01-15 00:00:16] ChinaCapital:BeijingPopulation:1330044000Area (km2):9596960.0 | Capitale: Beijing
+[2026-01-15 00:00:16] ColombiaCapital:BogotáPopulation:47790000Area (km2):1138910.0 | Capitale: Bogotá
+[2026-01-15 00:00:16] Costa RicaCapital:San JoséPopulation:4516220Area (km2):51100.0 | Capitale: San José
+[2026-01-15 00:00:16] CubaCapital:HavanaPopulation:11423000Area (km2):110860.0 | Capitale: Havana
+[2026-01-15 00:00:16] Cape VerdeCapital:PraiaPopulation:508659Area (km2):4033.0 | Capitale: Praia
+[2026-01-15 00:00:16] CuracaoCapital:WillemstadPopulation:141766Area (km2):444.0 | Capitale: Willemstad
+[2026-01-15 00:00:16] Christmas IslandCapital:Flying Fish CovePopulation:1500Area (km2):135.0 | Capitale: Flying Fish Cove
+[2026-01-15 00:00:16] CyprusCapital:NicosiaPopulation:1102677Area (km2):9250.0 | Capitale: Nicosia
+[2026-01-15 00:00:16] Czech RepublicCapital:PraguePopulation:10476000Area (km2):78866.0 | Capitale: Prague
+[2026-01-15 00:00:16] GermanyCapital:BerlinPopulation:81802257Area (km2):357021.0 | Capitale: Berlin
+[2026-01-15 00:00:16] DjiboutiCapital:DjiboutiPopulation:740528Area (km2):23000.0 | Capitale: Djibouti
+[2026-01-15 00:00:16] DenmarkCapital:CopenhagenPopulation:5484000Area (km2):43094.0 | Capitale: Copenhagen
+[2026-01-15 00:00:16] DominicaCapital:RoseauPopulation:72813Area (km2):754.0 | Capitale: Roseau
+[2026-01-15 00:00:16] Dominican RepublicCapital:Santo DomingoPopulation:9823821Area (km2):48730.0 | Capitale: Santo Domingo
+[2026-01-15 00:00:16] AlgeriaCapital:AlgiersPopulation:34586184Area (km2):2381740.0 | Capitale: Algiers
+[2026-01-15 00:00:16] EcuadorCapital:QuitoPopulation:14790608Area (km2):283560.0 | Capitale: Quito
+[2026-01-15 00:00:16] EstoniaCapital:TallinnPopulation:1291170Area (km2):45226.0 | Capitale: Tallinn
+[2026-01-15 00:00:16] EgyptCapital:CairoPopulation:80471869Area (km2):1001450.0 | Capitale: Cairo
+[2026-01-15 00:00:16] Western SaharaCapital:Laâyoune / El AaiúnPopulation:273008Area (km2):266000.0 | Capitale: Laâyoune / El Aaiún
+[2026-01-15 00:00:16] EritreaCapital:AsmaraPopulation:5792984Area (km2):121320.0 | Capitale: Asmara
+[2026-01-15 00:00:16] SpainCapital:MadridPopulation:46505963Area (km2):504782.0 | Capitale: Madrid
+[2026-01-15 00:00:16] EthiopiaCapital:Addis AbabaPopulation:88013491Area (km2):1127127.0 | Capitale: Addis Ababa
+[2026-01-15 00:00:16] FinlandCapital:HelsinkiPopulation:5244000Area (km2):337030.0 | Capitale: Helsinki
+[2026-01-15 00:00:16] FijiCapital:SuvaPopulation:875983Area (km2):18270.0 | Capitale: Suva
+[2026-01-15 00:00:16] Falkland IslandsCapital:StanleyPopulation:2638Area (km2):12173.0 | Capitale: Stanley
+[2026-01-15 00:00:16] MicronesiaCapital:PalikirPopulation:107708Area (km2):702.0 | Capitale: Palikir
+[2026-01-15 00:00:16] Faroe IslandsCapital:TórshavnPopulation:48228Area (km2):1399.0 | Capitale: Tórshavn
+[2026-01-15 00:00:16] FranceCapital:ParisPopulation:64768389Area (km2):547030.0 | Capitale: Paris
+[2026-01-15 00:00:16] GabonCapital:LibrevillePopulation:1545255Area (km2):267667.0 | Capitale: Libreville
+[2026-01-15 00:00:16] United KingdomCapital:LondonPopulation:62348447Area (km2):244820.0 | Capitale: London
+[2026-01-15 00:00:16] GrenadaCapital:St. George'sPopulation:107818Area (km2):344.0 | Capitale: St. George's
+[2026-01-15 00:00:16] GeorgiaCapital:TbilisiPopulation:4630000Area (km2):69700.0 | Capitale: Tbilisi
+[2026-01-15 00:00:16] French GuianaCapital:CayennePopulation:195506Area (km2):91000.0 | Capitale: Cayenne
+[2026-01-15 00:00:16] GuernseyCapital:St Peter PortPopulation:65228Area (km2):78.0 | Capitale: St Peter Port
+[2026-01-15 00:00:16] GhanaCapital:AccraPopulation:24339838Area (km2):239460.0 | Capitale: Accra
+[2026-01-15 00:00:16] GibraltarCapital:GibraltarPopulation:27884Area (km2):6.5 | Capitale: Gibraltar
+[2026-01-15 00:00:16] GreenlandCapital:NuukPopulation:56375Area (km2):2166086.0 | Capitale: Nuuk
+[2026-01-15 00:00:16] GambiaCapital:BathurstPopulation:1593256Area (km2):11300.0 | Capitale: Bathurst
+[2026-01-15 00:00:16] GuineaCapital:ConakryPopulation:10324025Area (km2):245857.0 | Capitale: Conakry
+[2026-01-15 00:00:16] GuadeloupeCapital:Basse-TerrePopulation:443000Area (km2):1780.0 | Capitale: Basse-Terre
+[2026-01-15 00:00:16] Equatorial GuineaCapital:MalaboPopulation:1014999Area (km2):28051.0 | Capitale: Malabo
+[2026-01-15 00:00:16] GreeceCapital:AthensPopulation:11000000Area (km2):131940.0 | Capitale: Athens
+[2026-01-15 00:00:16] South Georgia and the South Sandwich IslandsCapital:GrytvikenPopulation:30Area (km2):3903.0 | Capitale: Grytviken
+[2026-01-15 00:00:16] GuatemalaCapital:Guatemala CityPopulation:13550440Area (km2):108890.0 | Capitale: Guatemala City
+[2026-01-15 00:00:16] GuamCapital:HagåtñaPopulation:159358Area (km2):549.0 | Capitale: Hagåtña
+[2026-01-15 00:00:16] Guinea-BissauCapital:BissauPopulation:1565126Area (km2):36120.0 | Capitale: Bissau
+[2026-01-15 00:00:16] GuyanaCapital:GeorgetownPopulation:748486Area (km2):214970.0 | Capitale: Georgetown
+[2026-01-15 00:00:16] Hong KongCapital:Hong KongPopulation:6898686Area (km2):1092.0 | Capitale: Hong Kong
+[2026-01-15 00:00:16] Heard Island and McDonald IslandsCapital:NonePopulation:0Area (km2):412.0 | Capitale: None
+[2026-01-15 00:00:16] HondurasCapital:TegucigalpaPopulation:7989415Area (km2):112090.0 | Capitale: Tegucigalpa
+[2026-01-15 00:00:16] CroatiaCapital:ZagrebPopulation:4491000Area (km2):56542.0 | Capitale: Zagreb
+[2026-01-15 00:00:16] HaitiCapital:Port-au-PrincePopulation:9648924Area (km2):27750.0 | Capitale: Port-au-Prince
+[2026-01-15 00:00:16] HungaryCapital:BudapestPopulation:9982000Area (km2):93030.0 | Capitale: Budapest
+[2026-01-15 00:00:16] IndonesiaCapital:JakartaPopulation:242968342Area (km2):1919440.0 | Capitale: Jakarta
+[2026-01-15 00:00:16] IrelandCapital:DublinPopulation:4622917Area (km2):70280.0 | Capitale: Dublin
+[2026-01-15 00:00:16] IsraelCapital:NonePopulation:7353985Area (km2):20770.0 | Capitale: None
+[2026-01-15 00:00:16] Isle of ManCapital:DouglasPopulation:75049Area (km2):572.0 | Capitale: Douglas
+[2026-01-15 00:00:16] IndiaCapital:New DelhiPopulation:1173108018Area (km2):3287590.0 | Capitale: New Delhi
+[2026-01-15 00:00:16] British Indian Ocean TerritoryCapital:NonePopulation:4000Area (km2):60.0 | Capitale: None
+[2026-01-15 00:00:16] IraqCapital:BaghdadPopulation:29671605Area (km2):437072.0 | Capitale: Baghdad
+[2026-01-15 00:00:16] IranCapital:TehranPopulation:76923300Area (km2):1648000.0 | Capitale: Tehran
+[2026-01-15 00:00:16] IcelandCapital:ReykjavikPopulation:308910Area (km2):103000.0 | Capitale: Reykjavik
+[2026-01-15 00:00:16] ItalyCapital:RomePopulation:60340328Area (km2):301230.0 | Capitale: Rome
+[2026-01-15 00:00:16] JerseyCapital:Saint HelierPopulation:90812Area (km2):116.0 | Capitale: Saint Helier
+[2026-01-15 00:00:16] JamaicaCapital:KingstonPopulation:2847232Area (km2):10991.0 | Capitale: Kingston
+[2026-01-15 00:00:16] JordanCapital:AmmanPopulation:6407085Area (km2):92300.0 | Capitale: Amman
+[2026-01-15 00:00:16] JapanCapital:TokyoPopulation:127288000Area (km2):377835.0 | Capitale: Tokyo
+[2026-01-15 00:00:16] KenyaCapital:NairobiPopulation:40046566Area (km2):582650.0 | Capitale: Nairobi
+[2026-01-15 00:00:16] KyrgyzstanCapital:BishkekPopulation:5776500Area (km2):198500.0 | Capitale: Bishkek
+[2026-01-15 00:00:16] CambodiaCapital:Phnom PenhPopulation:14453680Area (km2):181040.0 | Capitale: Phnom Penh
+[2026-01-15 00:00:16] KiribatiCapital:TarawaPopulation:92533Area (km2):811.0 | Capitale: Tarawa
+[2026-01-15 00:00:16] ComorosCapital:MoroniPopulation:773407Area (km2):2170.0 | Capitale: Moroni
+[2026-01-15 00:00:16] Saint Kitts and NevisCapital:BasseterrePopulation:51134Area (km2):261.0 | Capitale: Basseterre
+[2026-01-15 00:00:16] North KoreaCapital:PyongyangPopulation:22912177Area (km2):120540.0 | Capitale: Pyongyang
+[2026-01-15 00:00:16] South KoreaCapital:SeoulPopulation:48422644Area (km2):98480.0 | Capitale: Seoul
+[2026-01-15 00:00:16] KuwaitCapital:Kuwait CityPopulation:2789132Area (km2):17820.0 | Capitale: Kuwait City
+[2026-01-15 00:00:16] Cayman IslandsCapital:George TownPopulation:44270Area (km2):262.0 | Capitale: George Town
+[2026-01-15 00:00:16] KazakhstanCapital:AstanaPopulation:15340000Area (km2):2717300.0 | Capitale: Astana
+[2026-01-15 00:00:16] LaosCapital:VientianePopulation:6368162Area (km2):236800.0 | Capitale: Vientiane
+[2026-01-15 00:00:16] LebanonCapital:BeirutPopulation:4125247Area (km2):10400.0 | Capitale: Beirut
+[2026-01-15 00:00:16] Saint LuciaCapital:CastriesPopulation:160922Area (km2):616.0 | Capitale: Castries
+[2026-01-15 00:00:16] LiechtensteinCapital:VaduzPopulation:35000Area (km2):160.0 | Capitale: Vaduz
+[2026-01-15 00:00:16] Sri LankaCapital:ColomboPopulation:21513990Area (km2):65610.0 | Capitale: Colombo
+[2026-01-15 00:00:16] LiberiaCapital:MonroviaPopulation:3685076Area (km2):111370.0 | Capitale: Monrovia
+[2026-01-15 00:00:16] LesothoCapital:MaseruPopulation:1919552Area (km2):30355.0 | Capitale: Maseru
+[2026-01-15 00:00:16] LithuaniaCapital:VilniusPopulation:2944459Area (km2):65200.0 | Capitale: Vilnius
+[2026-01-15 00:00:16] LuxembourgCapital:LuxembourgPopulation:497538Area (km2):2586.0 | Capitale: Luxembourg
+[2026-01-15 00:00:16] LatviaCapital:RigaPopulation:2217969Area (km2):64589.0 | Capitale: Riga
+[2026-01-15 00:00:16] LibyaCapital:TripoliPopulation:6461454Area (km2):1759540.0 | Capitale: Tripoli
+[2026-01-15 00:00:16] MoroccoCapital:RabatPopulation:31627428Area (km2):446550.0 | Capitale: Rabat
+[2026-01-15 00:00:16] MonacoCapital:MonacoPopulation:32965Area (km2):1.95 | Capitale: Monaco
+[2026-01-15 00:00:16] MoldovaCapital:ChişinăuPopulation:4324000Area (km2):33843.0 | Capitale: Chişinău
+[2026-01-15 00:00:16] MontenegroCapital:PodgoricaPopulation:666730Area (km2):14026.0 | Capitale: Podgorica
+[2026-01-15 00:00:16] Saint MartinCapital:MarigotPopulation:35925Area (km2):53.0 | Capitale: Marigot
+[2026-01-15 00:00:16] MadagascarCapital:AntananarivoPopulation:21281844Area (km2):587040.0 | Capitale: Antananarivo
+[2026-01-15 00:00:16] Marshall IslandsCapital:MajuroPopulation:65859Area (km2):181.3 | Capitale: Majuro
+[2026-01-15 00:00:16] MacedoniaCapital:SkopjePopulation:2062294Area (km2):25333.0 | Capitale: Skopje
+[2026-01-15 00:00:16] MaliCapital:BamakoPopulation:13796354Area (km2):1240000.0 | Capitale: Bamako
+[2026-01-15 00:00:16] Myanmar [Burma]Capital:NaypyitawPopulation:53414374Area (km2):678500.0 | Capitale: Naypyitaw
+[2026-01-15 00:00:16] MongoliaCapital:Ulan BatorPopulation:3086918Area (km2):1565000.0 | Capitale: Ulan Bator
+[2026-01-15 00:00:16] MacaoCapital:MacaoPopulation:449198Area (km2):254.0 | Capitale: Macao
+[2026-01-15 00:00:16] Northern Mariana IslandsCapital:SaipanPopulation:53883Area (km2):477.0 | Capitale: Saipan
+[2026-01-15 00:00:16] MartiniqueCapital:Fort-de-FrancePopulation:432900Area (km2):1100.0 | Capitale: Fort-de-France
+[2026-01-15 00:00:16] MauritaniaCapital:NouakchottPopulation:3205060Area (km2):1030700.0 | Capitale: Nouakchott
+[2026-01-15 00:00:16] MontserratCapital:PlymouthPopulation:9341Area (km2):102.0 | Capitale: Plymouth
+[2026-01-15 00:00:16] MaltaCapital:VallettaPopulation:403000Area (km2):316.0 | Capitale: Valletta
+[2026-01-15 00:00:16] MauritiusCapital:Port LouisPopulation:1294104Area (km2):2040.0 | Capitale: Port Louis
+[2026-01-15 00:00:16] MaldivesCapital:MaléPopulation:395650Area (km2):300.0 | Capitale: Malé
+[2026-01-15 00:00:16] MalawiCapital:LilongwePopulation:15447500Area (km2):118480.0 | Capitale: Lilongwe
+[2026-01-15 00:00:16] MexicoCapital:Mexico CityPopulation:112468855Area (km2):1972550.0 | Capitale: Mexico City
+[2026-01-15 00:00:16] MalaysiaCapital:Kuala LumpurPopulation:28274729Area (km2):329750.0 | Capitale: Kuala Lumpur
+[2026-01-15 00:00:16] MozambiqueCapital:MaputoPopulation:22061451Area (km2):801590.0 | Capitale: Maputo
+[2026-01-15 00:00:16] NamibiaCapital:WindhoekPopulation:2128471Area (km2):825418.0 | Capitale: Windhoek
+[2026-01-15 00:00:16] New CaledoniaCapital:NoumeaPopulation:216494Area (km2):19060.0 | Capitale: Noumea
+[2026-01-15 00:00:16] NigerCapital:NiameyPopulation:15878271Area (km2):1267000.0 | Capitale: Niamey
+[2026-01-15 00:00:16] Norfolk IslandCapital:KingstonPopulation:1828Area (km2):34.6 | Capitale: Kingston
+[2026-01-15 00:00:16] NigeriaCapital:AbujaPopulation:154000000Area (km2):923768.0 | Capitale: Abuja
+[2026-01-15 00:00:16] NicaraguaCapital:ManaguaPopulation:5995928Area (km2):129494.0 | Capitale: Managua
+[2026-01-15 00:00:16] NetherlandsCapital:AmsterdamPopulation:16645000Area (km2):41526.0 | Capitale: Amsterdam
+[2026-01-15 00:00:16] NorwayCapital:OsloPopulation:5009150Area (km2):324220.0 | Capitale: Oslo
+[2026-01-15 00:00:16] NepalCapital:KathmanduPopulation:28951852Area (km2):140800.0 | Capitale: Kathmandu
+[2026-01-15 00:00:16] NauruCapital:YarenPopulation:10065Area (km2):21.0 | Capitale: Yaren
+[2026-01-15 00:00:16] NiueCapital:AlofiPopulation:2166Area (km2):260.0 | Capitale: Alofi
+[2026-01-15 00:00:16] New ZealandCapital:WellingtonPopulation:4252277Area (km2):268680.0 | Capitale: Wellington
+[2026-01-15 00:00:16] OmanCapital:MuscatPopulation:2967717Area (km2):212460.0 | Capitale: Muscat
+[2026-01-15 00:00:16] PanamaCapital:Panama CityPopulation:3410676Area (km2):78200.0 | Capitale: Panama City
+[2026-01-15 00:00:16] PeruCapital:LimaPopulation:29907003Area (km2):1285220.0 | Capitale: Lima
+[2026-01-15 00:00:16] French PolynesiaCapital:PapeetePopulation:270485Area (km2):4167.0 | Capitale: Papeete
+[2026-01-15 00:00:16] Papua New GuineaCapital:Port MoresbyPopulation:6064515Area (km2):462840.0 | Capitale: Port Moresby
+[2026-01-15 00:00:16] PhilippinesCapital:ManilaPopulation:99900177Area (km2):300000.0 | Capitale: Manila
+[2026-01-15 00:00:16] PakistanCapital:IslamabadPopulation:184404791Area (km2):803940.0 | Capitale: Islamabad
+[2026-01-15 00:00:16] PolandCapital:WarsawPopulation:38500000Area (km2):312685.0 | Capitale: Warsaw
+[2026-01-15 00:00:16] Saint Pierre and MiquelonCapital:Saint-PierrePopulation:7012Area (km2):242.0 | Capitale: Saint-Pierre
+[2026-01-15 00:00:16] Pitcairn IslandsCapital:AdamstownPopulation:46Area (km2):47.0 | Capitale: Adamstown
+[2026-01-15 00:00:16] Puerto RicoCapital:San JuanPopulation:3916632Area (km2):9104.0 | Capitale: San Juan
+[2026-01-15 00:00:16] PalestineCapital:NonePopulation:3800000Area (km2):5970.0 | Capitale: None
+[2026-01-15 00:00:16] PortugalCapital:LisbonPopulation:10676000Area (km2):92391.0 | Capitale: Lisbon
+[2026-01-15 00:00:16] PalauCapital:MelekeokPopulation:19907Area (km2):458.0 | Capitale: Melekeok
+[2026-01-15 00:00:16] ParaguayCapital:AsunciónPopulation:6375830Area (km2):406750.0 | Capitale: Asunción
+[2026-01-15 00:00:16] QatarCapital:DohaPopulation:840926Area (km2):11437.0 | Capitale: Doha
+[2026-01-15 00:00:16] RéunionCapital:Saint-DenisPopulation:776948Area (km2):2517.0 | Capitale: Saint-Denis
+[2026-01-15 00:00:16] RomaniaCapital:BucharestPopulation:21959278Area (km2):237500.0 | Capitale: Bucharest
+[2026-01-15 00:00:16] SerbiaCapital:BelgradePopulation:7344847Area (km2):88361.0 | Capitale: Belgrade
+[2026-01-15 00:00:16] RussiaCapital:MoscowPopulation:140702000Area (km2):1.71E7 | Capitale: Moscow
+[2026-01-15 00:00:16] RwandaCapital:KigaliPopulation:11055976Area (km2):26338.0 | Capitale: Kigali
+[2026-01-15 00:00:16] Saudi ArabiaCapital:RiyadhPopulation:25731776Area (km2):1960582.0 | Capitale: Riyadh
+[2026-01-15 00:00:16] Solomon IslandsCapital:HoniaraPopulation:559198Area (km2):28450.0 | Capitale: Honiara
+[2026-01-15 00:00:16] SeychellesCapital:VictoriaPopulation:88340Area (km2):455.0 | Capitale: Victoria
+[2026-01-15 00:00:16] SudanCapital:KhartoumPopulation:35000000Area (km2):1861484.0 | Capitale: Khartoum
+[2026-01-15 00:00:16] SwedenCapital:StockholmPopulation:9828655Area (km2):449964.0 | Capitale: Stockholm
+[2026-01-15 00:00:16] SingaporeCapital:SingaporePopulation:4701069Area (km2):692.7 | Capitale: Singapore
+[2026-01-15 00:00:16] Saint HelenaCapital:JamestownPopulation:7460Area (km2):410.0 | Capitale: Jamestown
+[2026-01-15 00:00:16] SloveniaCapital:LjubljanaPopulation:2007000Area (km2):20273.0 | Capitale: Ljubljana
+[2026-01-15 00:00:16] Svalbard and Jan MayenCapital:LongyearbyenPopulation:2550Area (km2):62049.0 | Capitale: Longyearbyen
+[2026-01-15 00:00:16] SlovakiaCapital:BratislavaPopulation:5455000Area (km2):48845.0 | Capitale: Bratislava
+[2026-01-15 00:00:16] Sierra LeoneCapital:FreetownPopulation:5245695Area (km2):71740.0 | Capitale: Freetown
+[2026-01-15 00:00:16] San MarinoCapital:San MarinoPopulation:31477Area (km2):61.2 | Capitale: San Marino
+[2026-01-15 00:00:16] SenegalCapital:DakarPopulation:12323252Area (km2):196190.0 | Capitale: Dakar
+[2026-01-15 00:00:16] SomaliaCapital:MogadishuPopulation:10112453Area (km2):637657.0 | Capitale: Mogadishu
+[2026-01-15 00:00:16] SurinameCapital:ParamariboPopulation:492829Area (km2):163270.0 | Capitale: Paramaribo
+[2026-01-15 00:00:16] South SudanCapital:JubaPopulation:8260490Area (km2):644329.0 | Capitale: Juba
+[2026-01-15 00:00:16] São Tomé and PríncipeCapital:São ToméPopulation:175808Area (km2):1001.0 | Capitale: São Tomé
+[2026-01-15 00:00:16] El SalvadorCapital:San SalvadorPopulation:6052064Area (km2):21040.0 | Capitale: San Salvador
+[2026-01-15 00:00:16] Sint MaartenCapital:PhilipsburgPopulation:37429Area (km2):21.0 | Capitale: Philipsburg
+[2026-01-15 00:00:16] SyriaCapital:DamascusPopulation:22198110Area (km2):185180.0 | Capitale: Damascus
+[2026-01-15 00:00:16] SwazilandCapital:MbabanePopulation:1354051Area (km2):17363.0 | Capitale: Mbabane
+[2026-01-15 00:00:16] Turks and Caicos IslandsCapital:Cockburn TownPopulation:20556Area (km2):430.0 | Capitale: Cockburn Town
+[2026-01-15 00:00:16] ChadCapital:N'DjamenaPopulation:10543464Area (km2):1284000.0 | Capitale: N'Djamena
+[2026-01-15 00:00:16] French Southern TerritoriesCapital:Port-aux-FrançaisPopulation:140Area (km2):7829.0 | Capitale: Port-aux-Français
+[2026-01-15 00:00:16] TogoCapital:LoméPopulation:6587239Area (km2):56785.0 | Capitale: Lomé
+[2026-01-15 00:00:16] ThailandCapital:BangkokPopulation:67089500Area (km2):514000.0 | Capitale: Bangkok
+[2026-01-15 00:00:16] TajikistanCapital:DushanbePopulation:7487489Area (km2):143100.0 | Capitale: Dushanbe
+[2026-01-15 00:00:16] TokelauCapital:NonePopulation:1466Area (km2):10.0 | Capitale: None
+[2026-01-15 00:00:16] East TimorCapital:DiliPopulation:1154625Area (km2):15007.0 | Capitale: Dili
+[2026-01-15 00:00:16] TurkmenistanCapital:AshgabatPopulation:4940916Area (km2):488100.0 | Capitale: Ashgabat
+[2026-01-15 00:00:16] TunisiaCapital:TunisPopulation:10589025Area (km2):163610.0 | Capitale: Tunis
+[2026-01-15 00:00:16] TongaCapital:Nuku'alofaPopulation:122580Area (km2):748.0 | Capitale: Nuku'alofa
+[2026-01-15 00:00:16] TurkeyCapital:AnkaraPopulation:77804122Area (km2):780580.0 | Capitale: Ankara
+[2026-01-15 00:00:16] Trinidad and TobagoCapital:Port of SpainPopulation:1228691Area (km2):5128.0 | Capitale: Port of Spain
+[2026-01-15 00:00:16] TuvaluCapital:FunafutiPopulation:10472Area (km2):26.0 | Capitale: Funafuti
+[2026-01-15 00:00:16] TaiwanCapital:TaipeiPopulation:22894384Area (km2):35980.0 | Capitale: Taipei
+[2026-01-15 00:00:16] TanzaniaCapital:DodomaPopulation:41892895Area (km2):945087.0 | Capitale: Dodoma
+[2026-01-15 00:00:16] UkraineCapital:KievPopulation:45415596Area (km2):603700.0 | Capitale: Kiev
+[2026-01-15 00:00:16] UgandaCapital:KampalaPopulation:33398682Area (km2):236040.0 | Capitale: Kampala
+[2026-01-15 00:00:16] U.S. Minor Outlying IslandsCapital:NonePopulation:0Area (km2):0.0 | Capitale: None
+[2026-01-15 00:00:16] United StatesCapital:WashingtonPopulation:310232863Area (km2):9629091.0 | Capitale: Washington
+[2026-01-15 00:00:16] UruguayCapital:MontevideoPopulation:3477000Area (km2):176220.0 | Capitale: Montevideo
+[2026-01-15 00:00:16] UzbekistanCapital:TashkentPopulation:27865738Area (km2):447400.0 | Capitale: Tashkent
+[2026-01-15 00:00:16] Vatican CityCapital:Vatican CityPopulation:921Area (km2):0.44 | Capitale: Vatican City
+[2026-01-15 00:00:16] Saint Vincent and the GrenadinesCapital:KingstownPopulation:104217Area (km2):389.0 | Capitale: Kingstown
+[2026-01-15 00:00:16] VenezuelaCapital:CaracasPopulation:27223228Area (km2):912050.0 | Capitale: Caracas
+[2026-01-15 00:00:16] British Virgin IslandsCapital:Road TownPopulation:21730Area (km2):153.0 | Capitale: Road Town
+[2026-01-15 00:00:16] U.S. Virgin IslandsCapital:Charlotte AmaliePopulation:108708Area (km2):352.0 | Capitale: Charlotte Amalie
+[2026-01-15 00:00:16] VietnamCapital:HanoiPopulation:89571130Area (km2):329560.0 | Capitale: Hanoi
+[2026-01-15 00:00:16] VanuatuCapital:Port VilaPopulation:221552Area (km2):12200.0 | Capitale: Port Vila
+[2026-01-15 00:00:16] Wallis and FutunaCapital:Mata-UtuPopulation:16025Area (km2):274.0 | Capitale: Mata-Utu
+[2026-01-15 00:00:16] SamoaCapital:ApiaPopulation:192001Area (km2):2944.0 | Capitale: Apia
+[2026-01-15 00:00:16] KosovoCapital:PristinaPopulation:1800000Area (km2):10908.0 | Capitale: Pristina
+[2026-01-15 00:00:16] YemenCapital:SanaaPopulation:23495361Area (km2):527970.0 | Capitale: Sanaa
+[2026-01-15 00:00:16] MayotteCapital:MamoudzouPopulation:159042Area (km2):374.0 | Capitale: Mamoudzou
+[2026-01-15 00:00:16] South AfricaCapital:PretoriaPopulation:49000000Area (km2):1219912.0 | Capitale: Pretoria
+[2026-01-15 00:00:16] ZambiaCapital:LusakaPopulation:13460305Area (km2):752614.0 | Capitale: Lusaka
+[2026-01-15 00:00:16] ZimbabweCapital:HararePopulation:11651858Area (km2):390580.0 | Capitale: Harare
